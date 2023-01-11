@@ -9,7 +9,8 @@ Esta aplicação foi criada em minha introdução ao WebSocket e Programação a
 e CSS e JavaScript puros no front-end. Mais detalhes serão implementados posteriormente.
 
 ### Print Screen
-![print](https://user-images.githubusercontent.com/21068705/211704509-4592f0e3-bf35-46dc-8582-dd738f5d308b.jpg)
+![print](https://user-images.githubusercontent.com/21068705/211704666-71903d61-d6d6-4285-93fa-29ab375ab315.jpg)
+
 
 ### Tecnologias utilizadas
 
