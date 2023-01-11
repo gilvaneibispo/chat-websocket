@@ -1,0 +1,20 @@
+{
+  "name": "gbispo/chat",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "thurr",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GBispo\\": "src"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4"
+  }
+}
