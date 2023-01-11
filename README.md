@@ -8,6 +8,9 @@
 Esta aplicação foi criada em minha introdução ao WebSocket e Programação assícrona com PHP. Usa a Ratchet no back-end
 e CSS e JavaScript puros no front-end. Mais detalhes serão implementados posteriormente.
 
+### Print Screen
+![print](https://user-images.githubusercontent.com/21068705/211704509-4592f0e3-bf35-46dc-8582-dd738f5d308b.jpg)
+
 ### Tecnologias utilizadas
 
 - `Ratchet PHP [WebSocket]`
