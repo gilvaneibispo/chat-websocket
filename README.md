@@ -33,7 +33,7 @@ cd server/bin
 ```
 
 ```
-php chat-serve.php
+php chat-server.php
 ```
 
 #### Rode o cliente
